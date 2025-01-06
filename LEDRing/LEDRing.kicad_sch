@@ -418,7 +418,7 @@
 				)
 			)
 		)
-		(property "Value" "LED 0.2W"
+		(property "Value" "MP-3030"
 			(at 119.6975 57.15 0)
 			(effects
 				(font
@@ -486,7 +486,7 @@
 				)
 			)
 		)
-		(property "Value" "LED 0.2W"
+		(property "Value" "MP-3030"
 			(at 108.2675 57.15 0)
 			(effects
 				(font
@@ -621,7 +621,7 @@
 				)
 			)
 		)
-		(property "Value" "LED 0.2W"
+		(property "Value" "MP-3030"
 			(at 96.8375 57.15 0)
 			(effects
 				(font
