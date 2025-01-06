@@ -7,9 +7,9 @@ This version is designed for three ~0.2W LEDs, resulting in almost 100 lumens of
 Features a dedicated LED driver module (to be installed inside the Pinecil case), the LED ring itself, as well as PWM dimming using a [modified version of IronOS](https://github.com/BlockWorker/IronOS-LED).
 
 <center>
-<img src="https://github.com/user-attachments/assets/741b7bae-82a1-4358-b2cb-69f038d4e8c2" width="330">
-<img src="https://github.com/user-attachments/assets/e495e39d-e188-4827-988e-97a5f990947d" width="330">
-<img src="https://github.com/user-attachments/assets/2a7c52b0-cead-4afd-becd-9909a21ef621" width="330">
+<img src="https://github.com/user-attachments/assets/e495e39d-e188-4827-988e-97a5f990947d">
+<img src="https://github.com/user-attachments/assets/741b7bae-82a1-4358-b2cb-69f038d4e8c2" width="350">
+<img src="https://github.com/user-attachments/assets/2a7c52b0-cead-4afd-becd-9909a21ef621" width="350">
 </center>
 
 ## Build one yourself
